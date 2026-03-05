@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="nomi-blue-stacked.png" alt="Nomi logo" width="140"/>
+</p>
+
 # Nomi — AI Voice-First Language Practice Companion
 
 A calm, voice-first AI companion designed to help people practice speaking a new language without pressure, scores, or gamification.
