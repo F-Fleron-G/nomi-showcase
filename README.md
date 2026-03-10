@@ -8,7 +8,7 @@ A calm, voice-first AI companion designed to help people practice speaking a new
 
 Nomi focuses on **natural conversation**, emotional safety, and consistent speaking practice — like a short phone call with a trusted buddy.
 
-**Live demo:** https://nomi-kappa.vercel.app
+**Live demo:** https://nomi-kappa.vercel.app  
 **Full source repository:** Private (available on request)
 
 ---
@@ -25,6 +25,22 @@ Key goals:
 * Remove pressure from language learning
 * Provide calm, supportive conversational feedback
 * Maintain a simple and distraction-free interface
+
+---
+
+## Interface Preview
+
+<p align="center">
+  <img src="nomi-practice-adult.png" width="260"/>
+  <img src="nomi-practice-kid.png" width="260"/>
+  <img src="nomi-subscribe.png" width="260"/>
+</p>
+
+<p align="center">
+Adult conversation mode &nbsp;&nbsp;&nbsp;&nbsp;
+Kid-friendly conversation mode &nbsp;&nbsp;&nbsp;&nbsp;
+Subscription screen
+</p>
 
 ---
 
