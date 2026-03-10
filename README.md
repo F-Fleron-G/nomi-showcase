@@ -36,12 +36,6 @@ Key goals:
   <img src="nomi-subscribe.png" width="260"/>
 </p>
 
-<p align="center">
-Adult conversation mode &nbsp;&nbsp;&nbsp;&nbsp;
-Kid-friendly conversation mode &nbsp;&nbsp;&nbsp;&nbsp;
-Subscription screen
-</p>
-
 ---
 
 ## Core Features
