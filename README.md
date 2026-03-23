@@ -43,7 +43,7 @@ Key goals:
 * **Voice-first interaction** using browser speech recognition
 * **AI conversational responses** powered by OpenAI
 * **Adaptive conversation modes** (adult / kid personas)
-* **Multilingual interface** (English, German, French, Spanish — Italian planned)
+* **Multilingual interface** (English, German, French, Spanish — Italian in progress)
 * **Trial access + subscription system** via Stripe
 * **Minimalist UI** designed for calm interaction
 
