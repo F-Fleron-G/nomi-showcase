@@ -1,129 +1,94 @@
 <p align="center">
-  <img src="nomi-blue-stacked.png" alt="Nomi logo" width="140"/>
+  <img src="nomi-blue-stacked.png" alt="Nomi logo" width="180"/>
 </p>
 
-# Nomi — AI Voice-First Language Practice Companion
+# Nomi — Voice-First AI Language Practice Companion
 
-A calm, voice-first AI companion designed to help people practice speaking a new language without pressure, scores, or gamification.
+A calm, voice-first AI companion designed to help people practise speaking naturally without pressure, scores, or gamification.
 
-Nomi focuses on **natural conversation**, emotional safety, and consistent speaking practice — like a short phone call with a trusted buddy.
+Nomi focuses on conversation, emotional safety, and confidence — more like a short call with a trusted companion than a traditional language lesson.
 
-**Live demo:** https://nomi-kappa.vercel.app  
-**Full source repository:** Private (available on request)
+**Public site:** https://nomisays.app
+
+> Nomi is currently being prepared for launch.
 
 ---
 
 ## Overview
 
-Nomi is a full-stack AI application that allows users to practice speaking a language through natural conversation.
+Nomi is a full-stack AI product designed around real speaking practice.
 
-The system combines browser speech recognition, a conversational AI backend, and a minimalist interface designed to reduce cognitive load and performance anxiety.
+Instead of exercises, streaks, or performance pressure, Nomi encourages natural conversation in a calm environment where users can build confidence gradually.
 
-Key goals:
+Core principles:
 
-* Encourage consistent speaking practice
-* Remove pressure from language learning
-* Provide calm, supportive conversational feedback
-* Maintain a simple and distraction-free interface
-
----
-
-## Interface Preview
-
-<p align="center">
-  <img src="nomi-practice-adult.png" width="260"/>
-  <img src="nomi-practice-kid.png" width="260"/>
-  <img src="nomi-subscribe.png" width="260"/>
-</p>
+- Confidence before correctness
+- Real conversation instead of exercises
+- Gentle 15–30 minute practice sessions
+- Calm and emotionally safe interaction
+- Mobile-first experience
 
 ---
 
 ## Core Features
 
-* **Voice-first interaction** using browser speech recognition
-* **AI conversational responses** powered by OpenAI
-* **Adaptive conversation modes** (adult / kid personas)
-* **Multilingual interface** (English, German, French, Spanish — Italian in progress)
-* **Trial access + subscription system** via Stripe
-* **Minimalist UI** designed for calm interaction
+- Voice-first language practice
+- AI conversational interaction
+- Speech-to-text transcription
+- Text-to-speech voice responses
+- Adult and child modes
+- Multilingual support
+- Subscription and trial system
+- Calm, mobile-first interface
 
 ---
 
-## Architecture Overview
-
-```
-Browser (Next.js)
-   ↓
-Speech Recognition (Web Speech API)
-   ↓
-FastAPI Backend
-   ↓
-OpenAI API (gpt-5-mini)
-   ↓
-Response returned to frontend
-   ↓
-Speech synthesis (TTS)
-```
+## Technology
 
 ### Frontend
-
-* Next.js (App Router)
-* TypeScript
-* Web Speech API (speech recognition)
-* SpeechSynthesis API (text-to-speech)
-* TailwindCSS
+- Next.js
+- TypeScript
 
 ### Backend
-
-* Python
-* FastAPI
-* OpenAI Responses API
+- Python
+- OpenAI Responses API
 
 ### Infrastructure
-
-* Supabase (PostgreSQL + authentication)
-* Stripe (subscriptions and trials)
-* Vercel (frontend hosting)
-* Render (backend hosting)
-
----
-
-## Deployment
-
-Frontend: Vercel
-Backend: Render
-
-Production URL:
-https://nomi-kappa.vercel.app
+- Vercel
+- Render
+- Supabase
+- Stripe
+- Resend
 
 ---
 
 ## Development Status
 
-Nomi is currently a **production prototype** and continues to evolve as new features are implemented and refined.
+Nomi is currently in active private development.
 
-Planned improvements include:
-
-* Settings UX improvements
-* Subscription management portal
-* Usage monitoring and rate limiting
-* Progressive web app support
+The public website intentionally shows a launch holding page while the complete experience continues to be refined and prepared behind the scenes.
 
 ---
 
 ## About the Project
 
-Nomi is being developed as an independent project exploring how AI can support language learning through conversation rather than traditional exercises.
+Nomi is an independent product exploring how AI can support language learning through calm, human conversation.
 
-The full source code repository is currently private while the application continues to evolve.
+The goal is not to replace teachers or structured learning, but to provide a safe place where users can practise speaking consistently and comfortably.
 
-Access to the private repository can be provided upon request.
+---
+
+## Copyright
+
+© 2026 Frederic G. Fleron Grignard. All rights reserved.
+
+Nomi, its branding, product concept, interface designs, written content, and related materials are privately owned and may not be copied, reproduced, redistributed, or reused without permission.
 
 ---
 
 ## Author
 
-Frederic G. Fleron Grignard
+Frederic G. Fleron Grignard  
 Software Engineer — Berlin
 
 GitHub: https://github.com/F-Fleron-G
