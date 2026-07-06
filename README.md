@@ -4,19 +4,24 @@
 
 # Nomi — Voice-First AI Language Practice Companion
 
-A calm, voice-first AI companion designed to help people practise speaking naturally without pressure, scores, or gamification.
+A production-ready AI web application that helps people practise speaking languages through calm, natural conversation. Designed around emotional safety rather than pressure, Nomi feels more like a short call with a trusted companion than a traditional language lesson.
 
-Nomi focuses on conversation, emotional safety, and confidence — more like a short call with a trusted companion than a traditional language lesson.
 
-**Public site:** https://nomisays.app
+## Live Demo
 
-> Nomi is currently being prepared for launch.
+https://nomisays.app
+
+## Development Stage
+
+Public beta • Early user testing
+
+Nomi is currently available online and is being refined through real-world testing before wider public release.
 
 ---
 
 ## Overview
 
-Nomi is a full-stack AI product designed around real speaking practice.
+Nomi is a production-ready full-stack AI web application designed around real speaking practice.
 
 Instead of exercises, streaks, or performance pressure, Nomi encourages natural conversation in a calm environment where users can build confidence gradually.
 
@@ -40,6 +45,9 @@ Core principles:
 - Multilingual support
 - Subscription and trial system
 - Calm, mobile-first interface
+- Progressive Web App (installable)
+- Secure email authentication
+- Stripe subscription management
 
 ---
 
@@ -47,9 +55,11 @@ Core principles:
 
 ### Frontend
 - Next.js
+- React
 - TypeScript
 
 ### Backend
+- FastAPI
 - Python
 - OpenAI Responses API
 
@@ -58,15 +68,14 @@ Core principles:
 - Render
 - Supabase
 - Stripe
-- Resend
 
 ---
 
 ## Development Status
 
-Nomi is currently in active private development.
+Nomi is currently available as a public web application and is progressing through its early public testing phase.
 
-The public website intentionally shows a launch holding page while the complete experience continues to be refined and prepared behind the scenes.
+The focus is now on usability refinements, onboarding improvements, and preparing for wider public release across additional platforms.
 
 ---
 
