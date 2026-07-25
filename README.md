@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="nomi-blue-stacked.png" alt="Nomi logo" width="180"/>
+  <img src="nomisays-blue-stacked.png" alt="Nomi Says logo" width="180"/>
 </p>
 
-# Nomi — Voice-First AI Language Practice Companion
+# Nomi Says — Voice-First AI Language Practice Companion
 
-A production-ready AI web application that helps people practise speaking languages through calm, natural conversation. Designed around emotional safety rather than pressure, Nomi feels more like a short call with a trusted companion than a traditional language lesson.
+A production-ready AI web application that helps people practice speaking languages through calm, natural conversation. Designed around emotional safety rather than pressure, Nomi Says feels more like talking with a trusted companion than completing a traditional language lesson.
 
 
 ## Live Demo
@@ -13,15 +13,15 @@ https://nomisays.app
 
 ## Development Stage
 
-Public beta • Early user testing
+Public Beta • Early Access
 
-Nomi is currently available online and is being refined through real-world testing before wider public release.
+Nomi Says is currently available online and is being refined through real-world testing before wider public release.
 
 ---
 
 ## Overview
 
-Nomi is a production-ready full-stack AI web application designed around real speaking practice.
+Nomi Says is a production-ready full-stack AI web application designed around real speaking practice.
 
 Instead of exercises, streaks, or performance pressure, Nomi encourages natural conversation in a calm environment where users can build confidence gradually.
 
@@ -73,7 +73,7 @@ Core principles:
 
 ## Development Status
 
-Nomi is currently available as a public web application and is progressing through its early public testing phase.
+Nomi Says is currently available as a public web application and is progressing through its early public testing phase.
 
 The focus is now on usability refinements, onboarding improvements, and preparing for wider public release across additional platforms.
 
@@ -81,9 +81,9 @@ The focus is now on usability refinements, onboarding improvements, and preparin
 
 ## About the Project
 
-Nomi is an independent product exploring how AI can support language learning through calm, human conversation.
+Nomi Says is an independent product exploring how AI can support language learning through calm, human conversation.
 
-The goal is not to replace teachers or structured learning, but to provide a safe place where users can practise speaking consistently and comfortably.
+The goal is not to replace teachers or structured learning, but to provide a safe place where users can practice speaking consistently and comfortably.
 
 ---
 
@@ -91,7 +91,7 @@ The goal is not to replace teachers or structured learning, but to provide a saf
 
 © 2026 Frederic G. Fleron Grignard. All rights reserved.
 
-Nomi, its branding, product concept, interface designs, written content, and related materials are privately owned and may not be copied, reproduced, redistributed, or reused without permission.
+Nomi Says, its branding, product concept, interface designs, written content, and related materials are privately owned and may not be copied, reproduced, redistributed, or reused without permission.
 
 ---
 
